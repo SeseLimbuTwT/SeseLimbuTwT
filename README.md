@@ -2,7 +2,14 @@
 <h3 align="center">🚀 Student
 <!--
 **SeseLimbuTwT/SeseLimbuTwT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
+- 🎓 **Education:** I study in TU(Tribhuvan Universtiy). 
+- 💼 **Currently working on:** Just some projects!
+- 🌱 **Currently learning:** Java/Backend stuff
+- 💬 **Ask me about:** Anything!!
+- ⚡ **Fun fact:** I like to play games a lot!
+- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
