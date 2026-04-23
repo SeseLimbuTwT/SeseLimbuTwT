@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sese Limbu</h1>
 <h3 align="center">🚀 Student </h3>
-  ## 🙋‍♂️ About Me
+<h2>🙋‍♂️ About Me</h2> 
 
 - 🎓 **Education:** I study in TU(Tribhuvan Universtiy). 
 - 💼 **Currently working on:** Just some projects!
